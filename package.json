@@ -1,0 +1,19 @@
+{
+  "name": "promise-example",
+  "version": "1.0.0",
+  "description": "Example of a promise in ES6",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidKolesar/Promise-Example.git"
+  },
+  "author": "David Kolesar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidKolesar/Promise-Example/issues"
+  },
+  "homepage": "https://github.com/davidKolesar/Promise-Example#readme"
+}
