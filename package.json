@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davidKolesar/Promise-Example/issues"
   },
-  "homepage": "https://github.com/davidKolesar/Promise-Example#readme"
+  "homepage": "https://github.com/davidKolesar/Promise-Example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
